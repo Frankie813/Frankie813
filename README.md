@@ -18,6 +18,9 @@
 ![SQLite](https://img.shields.io/badge/sqlite-white?logo=sqlite&color=003B57&logoColor=white)
 
 ![iTerm2](https://img.shields.io/badge/iTerm2-white?logo=iterm2&color=000000&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-white?logo=git&color=F05032&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-white?logo=pusher&color=300D4F&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-white?logo=Cloudflare&color=F38020&logoColor=white)
 
 ![Discord](https://img.shields.io/badge/Discord-white?logo=discord&color=5865F2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-white?logo=docker&color=2496ED&logoColor=white)
