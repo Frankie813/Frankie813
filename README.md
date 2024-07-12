@@ -8,9 +8,8 @@
 	</a>
 </p>
 
-![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
-
-![Badge 2](https://img.shields.io/badge/AWS-orange?logo=amazonwebservices)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonwebservices)
+![PHP Storm](https://img.shields.io/badge/PHP_Storm-purple?logo=phpstorm)
 
 
 <!--
