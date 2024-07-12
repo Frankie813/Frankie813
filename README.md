@@ -2,6 +2,8 @@
 
 ![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
 
+![Badge 2](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+
 <!--
 **Frankie813/Frankie813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
