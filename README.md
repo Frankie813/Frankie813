@@ -22,8 +22,14 @@
 ![Discord](https://img.shields.io/badge/Discord-white?logo=discord&color=5865F2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-white?logo=docker&color=2496ED&logoColor=white)
 
+![Html5](https://img.shields.io/badge/Html5-white?logo=Html5&color=E34F26&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-white?logo=docker&color=2496ED&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-white?logo=docker&color=2496ED&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-white?logo=docker&color=2496ED&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-white?logo=docker&color=2496ED&logoColor=white)
 
-#
+
+##
 
 
 <!--
