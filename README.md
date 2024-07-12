@@ -8,9 +8,9 @@
 	</a>
 </p>
 
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonwebservices&color=#232F3E)
-![PHP Storm](https://img.shields.io/badge/PHP_Storm-purple?logo=phpstorm&color=#000000)
-![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&color=#FF2D20)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonwebservices&color=232F3E)
+![PHP Storm](https://img.shields.io/badge/PHP_Storm-purple?logo=phpstorm&color=000000)
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&color=FF2D20)
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&color=FF6C37)
 
 <!--
