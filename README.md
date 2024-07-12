@@ -27,7 +27,7 @@
 ![Honeybadger](https://img.shields.io/badge/Honeybadger-orange)
 ![Enlightn](https://img.shields.io/badge/Enlightn-gray)
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&color=FF6C37&logoColor=white)
-![PHP Storm](https://img.shields.io/badge/PHP_Storm-purple?logo=phpstorm&color=000000)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-purple?logo=phpstorm&color=000000)
 ![iTerm2](https://img.shields.io/badge/iTerm2-white?logo=iterm2&color=000000&logoColor=white)
 ![Tinkerwell](https://img.shields.io/badge/Tinkerwell-yellow)
 ![Pusher](https://img.shields.io/badge/Pusher-white?logo=pusher&color=300D4F&logoColor=white)
