@@ -12,6 +12,9 @@
 ![PHP Storm](https://img.shields.io/badge/PHP_Storm-purple?logo=phpstorm&color=000000)
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&color=FF2D20&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&color=FF6C37&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-white?logo=postgresql&color=4169E1&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-white?logo=mysql&color=4479A1&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-white?logo=sqlite&color=003B57&logoColor=white)
 
 <!--
 **Frankie813/Frankie813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
