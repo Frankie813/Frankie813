@@ -29,6 +29,8 @@
 ![iTerm2](https://img.shields.io/badge/iTerm2-white?logo=iterm2&color=000000&logoColor=white)
 ![Tinkerwell](https://img.shields.io/badge/Tinkerwell-yellow)
 ![Pusher](https://img.shields.io/badge/Pusher-white?logo=pusher&color=300D4F&logoColor=white)
+![TablePlus](https://img.shields.io/badge/TablePlus-yellow)
+![DBngin](https://img.shields.io/badge/DBngin-purple)
 ![Discord](https://img.shields.io/badge/Discord-white?logo=discord&color=5865F2&logoColor=white)
 
 
