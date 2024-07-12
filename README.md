@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">
+	## Hi, I'm Frankie 👋
+</h1>
 
 ![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
 
