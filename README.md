@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
 
 <!--
 **Frankie813/Frankie813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
