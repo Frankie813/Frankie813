@@ -22,14 +22,11 @@
 ![Discord](https://img.shields.io/badge/Discord-white?logo=discord&color=5865F2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-white?logo=docker&color=2496ED&logoColor=white)
 
-![Html5](https://img.shields.io/badge/Html5-white?logo=Html5&color=E34F26&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-white?logo=docker&color=2496ED&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-white?logo=docker&color=2496ED&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-white?logo=docker&color=2496ED&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-white?logo=docker&color=2496ED&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-white?logo=Html5&color=E34F26&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-white?logo=css3&color=1572B6&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_css-white?logo=tailwindcss&color=06B6D4&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-white?logo=php&color=777BB4&logoColor=white)
 
-
-##
 
 
 <!--
