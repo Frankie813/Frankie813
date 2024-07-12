@@ -19,6 +19,12 @@
 
 ![iTerm2](https://img.shields.io/badge/iTerm2-white?logo=iterm2&color=000000&logoColor=white)
 
+![Discord](https://img.shields.io/badge/Discord-white?logo=discord&color=5865F2&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-white?logo=docker&color=2496ED&logoColor=white)
+
+
+#
+
 
 <!--
 **Frankie813/Frankie813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
