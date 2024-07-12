@@ -24,6 +24,8 @@
 ![Docker](https://img.shields.io/badge/Docker-white?logo=docker&color=2496ED&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-white?logo=git&color=F05032&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-white?logo=Cloudflare&color=F38020&logoColor=white)
+![Honeybadger](https://img.shields.io/badge/Honeybadger-orange)
+![Enlightn](https://img.shields.io/badge/Enlightn-gray)
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&color=FF6C37&logoColor=white)
 ![PHP Storm](https://img.shields.io/badge/PHP_Storm-purple?logo=phpstorm&color=000000)
 ![iTerm2](https://img.shields.io/badge/iTerm2-white?logo=iterm2&color=000000&logoColor=white)
