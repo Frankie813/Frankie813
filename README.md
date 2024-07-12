@@ -10,7 +10,8 @@
 
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonwebservices)
 ![PHP Storm](https://img.shields.io/badge/PHP_Storm-purple?logo=phpstorm)
-
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
+![Postman](https://img.shields.io/badge/Postman?logo=postman?color=FF6C37)
 
 <!--
 **Frankie813/Frankie813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
