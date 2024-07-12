@@ -18,7 +18,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-white?logo=mysql&color=4479A1&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-white?logo=sqlite&color=003B57&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&color=FF2D20&logoColor=white)
-![Laravel Herd](https://img.shields.io/badge/Laravel_Herd-red?color=FF2D20&logoColor=white)
+![Herd](https://img.shields.io/badge/Herd-red?color=FF2D20&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-white?logo=tailwindcss&color=06B6D4&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonwebservices&color=232F3E)
 ![Docker](https://img.shields.io/badge/Docker-white?logo=docker&color=2496ED&logoColor=white)
@@ -27,6 +27,7 @@
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&color=FF6C37&logoColor=white)
 ![PHP Storm](https://img.shields.io/badge/PHP_Storm-purple?logo=phpstorm&color=000000)
 ![iTerm2](https://img.shields.io/badge/iTerm2-white?logo=iterm2&color=000000&logoColor=white)
+![Tinkerwell](https://img.shields.io/badge/Tinkerwell-yellow)
 ![Pusher](https://img.shields.io/badge/Pusher-white?logo=pusher&color=300D4F&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-white?logo=discord&color=5865F2&logoColor=white)
 
